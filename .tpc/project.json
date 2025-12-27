@@ -4,5 +4,8 @@
   "description": "Imported from Voxprep",
   "python_version": "3.11",
   "created": "2025-12-26T21:08:31.347493",
-  "github_repo": null
+  "github_repo": "https://github.com/donburnsideAZ/voxprep.git",
+  "icon_path": null,
+  "snapshot_limit": 10,
+  "ignore_patterns": []
 }
